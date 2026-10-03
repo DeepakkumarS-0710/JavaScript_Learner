@@ -1,0 +1,4 @@
+/* Tailwind CSS 3 reference only; use with tailwind.config.cjs. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
